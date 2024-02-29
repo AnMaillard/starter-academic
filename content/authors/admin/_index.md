@@ -1,124 +1,79 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+title: Antoine Maillard
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc - Hermann Weyl Instructor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: ETH Zurich
+  url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research lies at the interface of high-dimensional statistics, statistical physics, information theory and random matrix theory.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+  - course: PhD in Statistical Physics
+    institution: Ecole Normale Supérieure, Paris
+    year: 2017 - 2021
+  - course: Masters in Theoretical Physics and in Mathematics
+    institution: Ecole Normale Supérieure, Paris
+    year: 2014 - 2016
+  - course: Bachelor in Physics and in Mathematics
+    institution: Ecole Normale Supérieure, Paris
+    year: 2011 - 2014
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?user=hHz2ovsAAAAJ&hl=fr
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AnMaillard
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+# following the Spring 2023 lecture "Mathematics of Signals, Networks and Learning", you can find all relevant information on 
+#[the forum](https://forum.math.ethz.ch/c/spring-23/math-of-signals-networks-and-learning/149).
+---
+I am a [Hermann-Weyl Instructor](https://math.ethz.ch/fim/postdocs.html) at the FIM (Institute for Mathematical Research) and the department of mathematics at ETH Zurich, mentored by [Afonso S. Bandeira](https://people.math.ethz.ch/~abandeira/index.html). 
+
+My research is at the intersection of high-dimensional statistics, probability theory, statistical physics, information theory and random matrix theory.
+
+Before coming to ETH, I defended my PhD in Theoretical Physics in 2021 in Ecole Normale Supérieure de Paris, under the supervision of Florent Krzakala and Lenka Zdeborová.
+I am very glad to have received the [2021 Daniel Guinier Prize](https://www.sfpnet.fr/laureats-des-grands-prix-de-theses-2021-de-la-sfp) of the French Physical Society for it! You can find my PhD thesis [here](uploads/phd_thesis.pdf).
+
+For students, 
+please have look at the [teaching section](#teaching).
+For ETH students following the Fall 2023 lecture "Mathematics of Data Science", you can find all relevant information on 
+[the forum](https://forum.math.ethz.ch/c/autumn-23/mathematics-of-data-science/162).
