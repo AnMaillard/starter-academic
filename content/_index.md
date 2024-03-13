@@ -235,8 +235,9 @@ sections:
           title: "Mathematics of Data Science"
           certificate_url: ""
           date_start: "2023-09-17"
-          date_end: "2023-12-22"
-          description: "Master's degree course in mathematics, teached at 50% with [Afonso Bandeira](https://people.math.ethz.ch/~abandeira)."
+          date_end: "2024-02-14"
+          description: "Master's degree course in mathematics, teached at 50% with [Afonso Bandeira](https://people.math.ethz.ch/~abandeira).
+          Based on the following [book draft](https://people.math.ethz.ch/~abandeira/BandeiraSingerStrohmer-MDS-draft.pdf)"
         - organization: "ETH Zurich"
           title: "Mathematics of Signals, Networks and Learning"
           certificate_url: ""

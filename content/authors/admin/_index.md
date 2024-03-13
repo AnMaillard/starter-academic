@@ -75,5 +75,3 @@ I am very glad to have received the [2021 Daniel Guinier Prize](https://www.sfpn
 
 For students, 
 please have look at the [teaching section](#teaching).
-For ETH students following the Fall 2023 lecture "Mathematics of Data Science", you can find all relevant information on 
-[the forum](https://forum.math.ethz.ch/c/autumn-23/mathematics-of-data-science/162).
