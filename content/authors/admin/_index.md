@@ -70,7 +70,7 @@ I am a [Hermann-Weyl Instructor](https://math.ethz.ch/fim/postdocs.html) at the 
 
 My research is at the intersection of high-dimensional statistics, probability theory, statistical physics, information theory and random matrix theory.
 
-Before coming to ETH, I defended my PhD in Theoretical Physics in 2021 in Ecole Normale Supérieure de Paris, under the supervision of Florent Krzakala and Lenka Zdeborová.
+Before coming to ETH, I defended my PhD in Theoretical Physics in 2021 in Ecole Normale Supérieure de Paris, under the supervision of [Florent Krzakala](https://florentkrzakala.com/), and the additional guidance of [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova).
 I am very glad to have received the [2021 Daniel Guinier Prize](https://www.sfpnet.fr/laureats-des-grands-prix-de-theses-2021-de-la-sfp) of the French Physical Society for it! You can find my PhD thesis [here](uploads/phd_thesis.pdf).
 
 For students, 
