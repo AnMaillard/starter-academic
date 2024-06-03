@@ -25,6 +25,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - organization: "Lausanne event on machine learning and neural network theory"
+          organization_url: "https://lemanth2024.github.io/"
+          title: "LemanTh workshop"
+          url: "https://lemanth2024.github.io/"
+          certificate_url: ""
+          date_start: "2024-05-27"
+          date_end: "2024-05-29"
+          description: ""
         - organization: "Cargese summer conference on statistical physics and machine learning"
           organization_url: "https://cargese2023.github.io/"
           title: "Statistical physics and machine learning back together again"
