@@ -25,6 +25,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - organization: "University of Innsbruck"
+          organization_url: "https://www.uibk.ac.at/mathematik/math_data_science/wdi2_uibk24.html.en"
+          title: "WDI<sup>2</sup> workshop: Approximation Theory and Applications"
+          url: "https://www.uibk.ac.at/mathematik/math_data_science/wdi2_uibk24.html.en"
+          certificate_url: ""
+          date_start: "2024-06-28"
+          date_end: "2024-06-28"
+          description: ""
         - organization: "Lausanne event on machine learning and neural network theory"
           organization_url: "https://lemanth2024.github.io/"
           title: "LemanTh workshop"
